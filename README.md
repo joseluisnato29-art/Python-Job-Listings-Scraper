@@ -1,5 +1,7 @@
 # Python-Job-Listings-Scraper
 ## Description
+This is a begginer's project taken from the Data Analyst roadmap in Roadmap.sh
+Project URL: https://roadmap.sh/projects/job-listings-scraper
 The scrapper extracts the next information from a Fake Job Website: job title, company name, location and the link to the full job description.
 The fake site was made intentionally for learning the basic concepts and tools used on scrapping, this allowed me to understand the HTML structure, select elements without problems, and to process data without having to deal with anti-scraping protections or legal restrictions.
 ## Background
